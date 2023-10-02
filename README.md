@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/@p_moraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@p_moraes" height="30" width="40" /></a>
 <a href="https://twitter.com/@p_moraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@p_moraes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/poliannamoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poliannamoraes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-bhatnagar-87575235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poliannamoraes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
