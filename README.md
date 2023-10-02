@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences <a href="https://ca-priyanka.github.io/portfolio/PriyankaBhatnagarSep2023V2.pdf" target="blank">here.</a>
 
-- ⚡ Fun fact **I am a certified Yoga teacher 🤟 **
+- ⚡ Fun fact **I am a certified Yoga teacher 🤟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
