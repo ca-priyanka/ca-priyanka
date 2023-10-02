@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Priyanka Bhatnagar</h1>
 <h3 align="center">A Data Analytics enthusiast!</h3>
 
-- 🔭 I’m currently working on [The Australian's Women at Work during Covid Times](https://public.tableau.com/app/profile/polianna.cristina.moraes/viz/The_Australian_Women_Covid_Work_Polianna_Moraes/TheAustralianWomenLabourForce)
+- 🔭 I’m currently working on [Priyankas project name](https://public.tableau.com/app/profile/polianna.cristina.moraes/viz/The_Australian_Women_Covid_Work_Polianna_Moraes/TheAustralianWomenLabourForce)
 
 - 🌱 I’m currently learning **SQL | Tableau | Python**
 
