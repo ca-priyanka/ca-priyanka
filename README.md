@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ca.priyanka.bh@gmail.com**
 
-- 📄 Know about my experiences <a href="https://ca-priyanka.github.io/portfolio/PriyankaBhatnagarSep2023V2.pdf" target="blank">here.</a>
+- 📄 Know about my experiences <a href="https://ca-priyanka.github.io/portfolio/Priyanka_Bhatnagar_DA.pdf" target="blank">here.</a>
 
 - ⚡ Fun fact **I love practising Yoga and meditation🤟**
 
