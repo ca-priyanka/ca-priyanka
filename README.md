@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Priyanka Bhatnagar</h1>
-<h3 align="center">A Data Analytics enthusiast!</h3>
+<h3 align="center">A Data Science enthusiast!</h3>
 
-- 🔭 I’m currently working on [Lending club RIsk Analysis](https://public.tableau.com/app/profile/priyanka.bhatnagar/viz/LCRiskanalysis2007-18/LendingClubRiskAnalysis)
+- 🔭 Projects I've worked on [Lending club RIsk Analysis](https://public.tableau.com/app/profile/priyanka.bhatnagar/viz/LCRiskanalysis2007-18/LendingClubRiskAnalysis)
 
-- 🌱 I’m currently learning **SQL | Tableau | Python**
+- 🌱 I love **SQL | Tableau | Python**
 
-- 👯 I’m looking to collaborate on **Financial Analysis and Risk Assessment Projects**
+- 👯 I’m looking to collaborate on **Fraud and Credit Risk Assessment Projects**
 
 - 💬 Ask me about **Indian Culture and Parenting**
 
