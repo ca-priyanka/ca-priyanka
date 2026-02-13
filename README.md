@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Priyanka Bhatnagar</h1>
-<h3 align="center">A Data Science enthusiast!</h3>
+<h3 align="center">A Data Scientist, currently doing Masters in Data Science from UC Berkeley!</h3>
 
 - 🔭 Projects I've worked on [Lending club RIsk Analysis](https://public.tableau.com/app/profile/priyanka.bhatnagar/viz/LCRiskanalysis2007-18/LendingClubRiskAnalysis)
 
-- 🌱 I love **SQL | Tableau | Python**
+- 🌱 I love **SQL | Machine Learning | Python**
 
 - 👯 I’m looking to collaborate on **Fraud and Credit Risk Assessment Projects**
 
