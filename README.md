@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Fraud and Credit Risk Assessment Projects**
 
-- 💬 Ask me about **Indian Culture and Parenting**
 
 - 📫 How to reach me **ca.priyanka.bh@gmail.com**
 
