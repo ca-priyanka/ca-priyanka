@@ -1,25 +1,71 @@
-<h1 align="center">Hey there 👋, I'm Priyanka Bhatnagar</h1>
-<h3 align="center">A Data Scientist, currently doing Masters in Data Science from UC Berkeley!</h3>
+# Hi, I'm Priyanka 👋  
 
-- 🔭 Projects I've worked on [Lending club RIsk Analysis](https://public.tableau.com/app/profile/priyanka.bhatnagar/viz/LCRiskanalysis2007-18/LendingClubRiskAnalysis)
+🎯 Data Scientist | Machine Learning | Financial Analytics | UC Berkeley MIDS  
 
-- 🌱 I love **SQL | Machine Learning | Python**
+---
 
-- 👯 I’m looking to collaborate on **Fraud and Credit Risk Assessment Projects**
+## 🚀 About Me  
+I’m a Data Scientist with 10+ years of experience in financial analytics and consulting, now focused on applying machine learning and data engineering to solve real-world problems.
 
+I specialize in building **end-to-end data solutions** — from data extraction and pipeline development to exploratory analysis, feature engineering, and predictive modeling on large datasets.
 
-- 📫 How to reach me **ca.priyanka.bh@gmail.com**
+My background in finance (credit risk, FP&A, M&A, regulatory reporting) allows me to connect **business context with technical execution**, delivering insights that drive decision-making.
 
-- ⚡ Fun fact **I love practising Yoga and meditation🤟**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@p_moraes" height="30" width="40" /></a>
-<a href="https://twitter.com/PriyankaBh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@p_moraes" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/priyanka-bhatnagar-87575235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poliannamoraes" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills & Tools  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-                                                                                          alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                                                                                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Programming:** Python (pandas, numpy, scikit-learn), SQL, R  
+**Machine Learning:** Classification, Regression, Model Evaluation, Feature Engineering  
+**Data Engineering:** ETL Pipelines, Data Cleaning, Data Transformation  
+**Visualization:** Tableau, Power BI, Matplotlib  
+**Concepts:** Statistical Modeling, A/B Testing, Experimental Design  
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 LendingClub Credit Risk Prediction  
+- Built ML models to predict loan default risk on 2M+ records  
+- Improved prediction accuracy by 15% using feature engineering and model tuning  
+- Tools: Python, scikit-learn, Tableau  
+👉 [View Project](https://github.com/ca-priyanka/lendingclub-risk-analysis)
+
+---
+
+### 🔹 U.S. Data Science Job Market Analysis  
+- Developed an object-oriented Python pipeline for large-scale job market analysis  
+- Analyzed salary trends, in-demand skills, and geographic patterns  
+👉 [View Project](https://github.com/ca-priyanka/ds-job-market-analysis)
+
+---
+
+### 🔹 Network Analysis: Illegal Ivory Trade  
+- Applied graph algorithms to identify key entities in illicit trade networks  
+- Built network visualizations and performed exploratory analysis  
+👉 [View Project](https://github.com/ca-priyanka/project_ivory_trade)
+
+---
+
+### 🔹 Statistical Analysis: Nutrition & Health  
+- Conducted regression analysis on dietary factors and health indicators  
+- Delivered formal statistical report with insights and limitations  
+👉 [View Project](https://github.com/ca-priyanka/crp_v_saturated_fat_analysis)
+
+---
+
+## 🎓 Education  
+**Master of Information and Data Science (MIDS)**  
+University of California, Berkeley (In Progress)  
+
+**CA / MBA (Finance)**  
+
+---
+
+## 📫 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanka-bha/)  
+- 📧 priyanka.bhatnagar@berkeley.edu  
+
+---
+
+⭐ *Open to Data Scientist opportunities where I can apply machine learning and analytics to solve high-impact business problems.*
