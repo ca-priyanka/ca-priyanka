@@ -15,7 +15,7 @@ My background in finance (credit risk, FP&A, M&A, regulatory reporting) allows m
 
 ## 🛠️ Skills & Tools  
 
-**Programming:** Python (pandas, numpy, scikit-learn), SQL, R  
+**Programming:** Python (pandas, numpy, scikit-learn, TensorFlow, PyTorch), SQL, R  
 **Machine Learning:** Classification, Regression, Model Evaluation, Feature Engineering  
 **Data Engineering:** ETL Pipelines, Data Cleaning, Data Transformation  
 **Visualization:** Tableau, Power BI, Matplotlib  
@@ -32,8 +32,8 @@ My background in finance (credit risk, FP&A, M&A, regulatory reporting) allows m
 - Trained ML classifier to flag high-risk outputs from LLMs like Claude/GPT
 - Developed FastAPI REST service for real-time inference and integration into LLM workflows
 - Implemented live monitoring dashboard to track hallucination risk and model behavior
+👉 [View Project](https://github.com/ca-priyanka/llm-hallucination-detector)
 
-👉 **[View Project](https://github.com/ca-priyanka/llm-hallucination-detector)**
 ---
 
 ### 🔹 LendingClub Credit Risk & Loan Default Prediction | Python, scikit-learn, Tableau 
@@ -41,8 +41,7 @@ My background in finance (credit risk, FP&A, M&A, regulatory reporting) allows m
 - Developed a risk-based segmentation model to identify high-risk borrower profiles representing 15% of portfolio value
 - improved AUC from 0.65 → 0.79 (vs. baseline logistic regression)
 - Resolved class imbalance and high-cardinality features; integrated outputs into a Tableau executive dashboard
-  
-👉 **[View Project](https://github.com/ca-priyanka/lendingclub-risk-analysis)**
+👉 [View Project](https://github.com/ca-priyanka/lendingclub-risk-analysis)
 
 ---
 
@@ -51,14 +50,14 @@ My background in finance (credit risk, FP&A, M&A, regulatory reporting) allows m
 - Built ML pipeline for image and environmental data preprocessing, model evaluation, and metrics visualization
 - Built ML and CNN models to predict bleaching severity using image + environmental data
 - Improved model performance over baseline logistic regression using Random Forest, XGBoost, and neural networks, evaluated via F1-score and recall
+👉 [View Project](https://github.com/ca-priyanka/coral-bleaching-prediction)
 
-👉 **[View Project](https://github.com/ca-priyanka/coral-bleaching-prediction)**
+---
 
 ### 🔹 Network Analysis: Illegal Ivory Trade  
 - Modeled illicit trade ecosystems using Graph Algorithms, identifying critical supply chain nodes and hidden relationships within large-scale unstructured datasets.
 - Leveraged centrality algorithms and network analysis in Neo4j to demonstrate use cases in Anti-Money Laundering and fraud detection.
- 
-👉 **[View Project](https://github.com/ca-priyanka/project_ivory_trade)**
+👉 [View Project](https://github.com/ca-priyanka/project_ivory_trade)
 
 ---
 
